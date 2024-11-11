@@ -800,7 +800,7 @@ def main():
                     print_(f"Play Game : Playing game...")
                     gameId = get_game_id(token)
                     print_(f"Play Game : Checking game...")
-                    taps = random.randint(330, 400)
+                    taps = random.randint(200, 230)
                     delays = random.randint(31, 35)
                     freeze = random.randint(4,8)
                     delays += (freeze*5)
