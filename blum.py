@@ -504,7 +504,7 @@ def check_tribe(token):
 
 
 def join_tribe(token):
-    url ='https://game-domain.blum.codes/api/v1/tribe/9b5495e6-d59b-4628-9b8a-89ca0d113049/join'
+    url ='https://game-domain.blum.codes/api/v1/tribe/e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6/join'
     headers = {
         'Authorization': f'Bearer {token}',
         'accept': 'application/json, text/plain, */*',
