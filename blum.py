@@ -985,9 +985,9 @@ def task_main():
 def start():
     print(r"""
  _____ __    _____ _____  BLUM AUTO TASK AND PLAY GAME BOT
-| __  |  |  |  |  |     | Author : D4rkCipherX
-| __ -|  |__|  |  | | | | YouTube :https://youtube.com/@d4rkcipherx
-|_____|_____|_____|_|_|_| Note : MUST SUBSCRIBE MY YOUTUBE CHANNEL
+| __  |  |  |  |  |     | Author : candyburst
+| __ -|  |__|  |  | | | | Github :https://github.com/candyburst
+|_____|_____|_____|_|_|_| Note : Give A Star to my repo.
               
         Select :
         1. Claim Daily & Play Game
